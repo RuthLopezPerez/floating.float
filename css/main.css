@@ -1,0 +1,22 @@
+div{
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+}
+.yellow{
+	background: #FFFF00;
+	border: bottom-style: dotted;
+
+}
+.blue{
+	background: #0000FF;
+	border: bottom-style: none;
+}
+.red{
+	background: #FF0000;
+}
+
+.a{
+	width: 600px;
+	height: 308px;
+}
